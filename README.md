@@ -18,31 +18,31 @@ Whether you're expanding your team or considering remote workers, **Multiplier m
 
 Here’s a simple breakdown of what Multiplier does:
 
-**Global Hiring Without Entities**:
+1. **Global Hiring Without Entities**:
     
 Normally, to hire someone in another country, a company needs to open a branch or entity there. **Multiplier removes that need** by acting as the legal employer on your behalf.
 
-**Compliant Employment Contracts**:
+2. **Compliant Employment Contracts**:
 
 It creates **locally compliant contracts** based on the labor laws of the employee’s country, helping you stay legal and avoid costly mistakes.
     
-**Payroll & Benefits Management**:
+3. **Payroll & Benefits Management**:
     
 Multiplier takes care of **international payroll**, **taxes**, and even **employee benefits** like insurance and pensions.
     
-**Supports 150+ Countries**:
+4. **Supports 150+ Countries**:
     
 Whether you're hiring in Asia, Europe, Africa, or the Americas, **Multiplier supports over 150 countries**, making it ideal for global teams.
     
-**Easy Onboarding & Documentation**:
+5. **Easy Onboarding & Documentation**:
     
 The platform simplifies onboarding with **digital contract signing**, centralized document storage, and a user-friendly dashboard.
     
-**Freelancer & Contractor Payments**:
+6. **Freelancer & Contractor Payments**:
     
 Not just full-time employees—**Multiplier also handles global contractor payouts**, ensuring fast, secure, and legally compliant transactions.
     
-**Local Currency Payments**:
+7. **Local Currency Payments**:
     
 Employees get paid in their **local currency**, avoiding delays and currency conversion headaches.
 
@@ -57,6 +57,10 @@ Employees get paid in their **local currency**, avoiding delays and currency con
 Multiplier boasts a rich set of features designed to streamline every aspect of international employment. Let's explore these functionalities in detail through a hands-on lens:
 
 **1. Dashboard UI: Centralized Global Workforce Management**
+
+<a href="https://afftrend.com/multiplier">
+  <img src="https://drive.google.com/uc?export=view&id=1Jv5qwD7DhrVnzjmCcz4JSqZ-FB1ynrwe"  alt="Multiplier Dashboard UI">
+</a>
 
 Upon logging into Multiplier, users are greeted with an intuitive and well-organized dashboard. **The UI provides a clear overview of your global team, key payroll information, compliance alerts, and pending tasks.** The left-hand navigation menu offers easy access to different sections, including "Employees," "Contractors," "Payroll," "Invoices," "Compliance," and "Settings."
 
@@ -77,6 +81,10 @@ Multiplier's onboarding process is designed to be efficient and compliant with l
 - **Benefits Enrollment:** The platform guides employees through the enrollment process for any locally provided benefits packages.
 
 **3. Integrations: Connecting with Your Existing Ecosystem**
+
+<a href="https://afftrend.com/multiplier">
+  <img src="https://drive.google.com/uc?export=view&id=1-yuC9GQUtG40WgRIMzMF1OqdU6vipfQG"  alt="Multiplier Integrations">
+</a>
 
 Multiplier recognizes the importance of seamless integration with other business tools. While the specific list of integrations may evolve, common integrations typically include:
 
