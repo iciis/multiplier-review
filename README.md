@@ -48,6 +48,10 @@ Employees get paid in their **local currency**, avoiding delays and currency con
 
 **Multiplier is your partner in building an international team quickly and legally**, without the usual hurdles of legal setup, tax complications, or compliance risks. It’s perfect for startups, remote-first companies, or large enterprises looking to scale globally with confidence.
 
+<a href="https://afftrend.com/multiplier"> 
+<img src="https://drive.google.com/uc?export=view&id=1FoP9E8ObxUoX_OFhvRvBbO3lZ2orFR34" alt="Try Now"> 
+</a>
+
 ## Features of Multiplier
 
 Multiplier boasts a rich set of features designed to streamline every aspect of international employment. Let's explore these functionalities in detail through a hands-on lens:
@@ -55,8 +59,6 @@ Multiplier boasts a rich set of features designed to streamline every aspect of 
 **1. Dashboard UI: Centralized Global Workforce Management**
 
 Upon logging into Multiplier, users are greeted with an intuitive and well-organized dashboard. **The UI provides a clear overview of your global team, key payroll information, compliance alerts, and pending tasks.** The left-hand navigation menu offers easy access to different sections, including "Employees," "Contractors," "Payroll," "Invoices," "Compliance," and "Settings."
-
-![DigiRepo_1747195755-1747195756.webp](attachment:0b6d7f16-d220-4bf4-9f92-230c3148aaff:DigiRepo_1747195755-1747195756.webp)
 
 - **Employee and Contractor Management:** This section provides a centralized view of all your international hires, whether they are full-time employees or independent contractors. You can easily access individual profiles, view their employment details, manage documents, and track their status.
 - **Payroll Overview:** The dashboard provides a snapshot of your upcoming and past payroll runs, including total amounts, payment statuses, and any potential issues requiring attention.
@@ -107,6 +109,10 @@ Multiplier emphasizes providing robust customer support to its users. This typic
 | Integrations with Business Tools | Connects with popular HRIS, accounting, and communication platforms. | Streamlines workflows and reduces manual data entry by integrating with existing systems. |
 | Robust Customer Support | Offers dedicated account managers, email, phone, and live chat support, along with a comprehensive knowledge base. | Provides timely assistance and expert guidance on all aspects of global employment. |
 | Contractor Management | Dedicated features for onboarding, managing, and paying international contractors, ensuring compliance with contractor-specific regulations. | Simplifies the management of a global freelance workforce and mitigates risks associated with misclassification. |
+
+<a href="https://afftrend.com/multiplier"> 
+<img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
+</a>
 
 ## **Pricing of the Product**
 
@@ -173,6 +179,10 @@ Whether you're onboarding full-time employees, managing global payroll, or payin
 
 From $40 to $400 per month, it caters to both startups and enterprises looking to scale without the burden of local compliance and legal hassles. **If your goal is to unlock global talent effortlessly**, Multiplier is a powerful partner worth considering.
 
+<a href="https://afftrend.com/multiplier"> 
+<img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
+</a>
+
 **Key Considerations for Pricing:**
 
 - **Number of Employees:** Most platforms offer discounts for a larger number of employees.
@@ -213,42 +223,9 @@ Multiplier will automatically generate an employment contract tailored to the lo
 5. **Ongoing Compliance:** Multiplier will continuously monitor and manage compliance with local labor laws, informing you of any changes or requirements.
 6. **Employee Offboarding (if necessary):** When an employee leaves, Multiplier will manage the offboarding process according to local regulations, including final paychecks and any required termination procedures.
 
-## **Multiplier Hiring Workflow**
-
-The Flowchart captures the end-to-end employee hiring and management process, designed to streamline operations and enhance organizational efficiency. Beginning with the identification of talent needs, it guides HR professionals through key decision points, including role specification, employee location compliance, contract approvals, onboarding, and benefits management.
-
-By integrating critical stages like payroll, compliance, and offboarding, the chart ensures legal and procedural consistency across geographies. Tools like **Multiplier** facilitate global hiring by simplifying complexities such as tax laws, employment regulations, and localized HR practices. This structured approach not only saves time and reduces administrative burden but also enhances the employee experience, supporting scalability and growth in a compliant, cost-effective manner.
-
-```mermaid
-graph TD;
-A["Identify Talent Needs"] --> B["Sign Up for Multiplier"];
-B --> C{"Initiate Hiring Process"};
-C --> D["Provide Candidate & Role Details"];
-D --> E["Specify Employee Location"];
-E --> F{"Review & Approve Contract"};
-F --> G["Send Contract to Candidate"];
-G --> H{"Candidate Onboarding (Info & Docs)"};
-H --> I["Benefits Enrollment (Optional)"];
-I --> J["Payroll Management"];
-J --> K["Ongoing Compliance"];
-K --> L{"Employee Offboarding (if needed)"};
-
-style A fill:#f9d5e5,stroke:#333,color:#000
-style B fill:#eeac99,stroke:#333,color:#000
-style C fill:#e06377,stroke:#333,color:#000
-style D fill:#c83349,stroke:#333,color:#000
-style E fill:#5b9aa0,stroke:#333,color:#000
-style F fill:#d6d4e0,stroke:#333,color:#000
-style G fill:#b8a9c9,stroke:#333,color:#000
-style H fill:#622569,stroke:#333,color:#fff
-style I fill:#843b62,stroke:#333,color:#fff
-style J fill:#621940,stroke:#333,color:#fff
-style K fill:#eeac99,stroke:#333,color:#000
-style L fill:#e06377,stroke:#333,color:#000
-
-%% Workflow diagram showing the complete hiring process using Multiplier
-%% Diamond shapes indicate decision points or key process gates
-%% Rectangle shapes indicate action items or processes
+<a href="https://afftrend.com/multiplier"> 
+<img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
+</a>
 
 ## **Use Case**
 
@@ -265,6 +242,10 @@ Consider a fast-growing tech startup based in the United States that has develop
 - **Focus on Core Business:** The startup can now focus its resources and energy on sales and marketing activities in the European market, rather than getting bogged down in HR and legal complexities.
 
 Multiplier acts as a strategic enabler, allowing the tech startup to expand its global footprint efficiently and cost-effectively, accessing the talent they need to drive their European market success without the traditional administrative burdens.
+
+<a href="https://afftrend.com/multiplier"> 
+<img src="https://drive.google.com/uc?export=view&id=1l5pL-NmRd4ipfP11-OQX4lmD0iqkEa_z" alt="Learn More"> 
+</a>
 
 ## **Customer Support**
 
