@@ -124,7 +124,9 @@ Multiplier emphasizes providing robust customer support to its users. This typic
 
 ## **Pricing of the Product**
 
-
+<a href="https://afftrend.com/multiplier">
+  <img src="https://drive.google.com/uc?export=view&id=18cj195XEQW2IRm5BAANrMynXzM-rSeoe"  alt="Multiplier Pricing">
+</a>
 
 **Employer of Record**
 
@@ -209,8 +211,15 @@ Here's a simplified step-by-step guide to hiring international employees using t
 
 Login for a Multiplier account and familiarize yourself with the platform.
 
+<a href="https://afftrend.com/multiplier">
+  <img src="https://drive.google.com/uc?export=view&id=1xhGc-fSHDKsHknbCvxNmX6kTn7wjYjP6"  alt="Multiplier EOR Login">
+</a>
 
 2. **Initiate the Hiring Process:**
+
+<a href="https://afftrend.com/multiplier">
+  <img src="https://drive.google.com/uc?export=view&id=1-vNz-UhwnNE6RlPvTruJB5udyeeEa-iR"  alt="Multiplier Hiring Process">
+</a>
 
 Within the Multiplier platform, navigate to the "Employees" section and click on "Add Employee."
 
@@ -222,14 +231,39 @@ Enter the candidate's personal information, job title, start date, compensation 
 
 5. **Review and Approve Contract:**
 
+<a href="https://afftrend.com/multiplier">
+  <img src="https://drive.google.com/uc?export=view&id=1JjML3pANHrBVsGiAjSHFKV_ytNDyPq00"  alt="Multiplier Approve Contract">
+</a>
+
 Multiplier will automatically generate an employment contract tailored to the local laws of the employee's country. Review the contract details carefully and approve it.
 
-1. **Send Contract to Candidate:** The platform allows you to send the contract to the candidate for their review and electronic signature.
-2. **Candidate Onboarding:** Once the contract is signed, Multiplier will guide the employee through the onboarding process, collecting necessary tax information, bank details for payroll, and other required documentation through a secure portal.
-3. **Benefits Enrollment (if applicable):** If you are offering benefits through Multiplier, the platform will guide the employee through the enrollment process based on local options.
-4. **Payroll Management:** Multiplier will handle the monthly payroll processing in the employee's local currency, ensuring accurate tax deductions and timely payments. You will typically need to approve payroll runs through the platform.
-5. **Ongoing Compliance:** Multiplier will continuously monitor and manage compliance with local labor laws, informing you of any changes or requirements.
-6. **Employee Offboarding (if necessary):** When an employee leaves, Multiplier will manage the offboarding process according to local regulations, including final paychecks and any required termination procedures.
+6. **Send Contract to Candidate:**
+
+The platform allows you to send the contract to the candidate for their review and electronic signature.
+
+7. **Candidate Onboarding:**
+
+Once the contract is signed, Multiplier will guide the employee through the onboarding process, collecting necessary tax information, bank details for payroll, and other required documentation through a secure portal.
+
+8. **Benefits Enrollment (if applicable):**
+
+If you are offering benefits through Multiplier, the platform will guide the employee through the enrollment process based on local options.
+   
+9. **Payroll Management:**
+
+<a href="https://afftrend.com/multiplier">
+  <img src="https://drive.google.com/uc?export=view&id=1h0Z2C5k7xSZ6zqjG3f2cGRLKt3oyHhbW"  alt="Multiplier Payroll">
+</a>
+
+Multiplier will handle the monthly payroll processing in the employee's local currency, ensuring accurate tax deductions and timely payments. You will typically need to approve payroll runs through the platform.
+
+10. **Ongoing Compliance:**
+
+Multiplier will continuously monitor and manage compliance with local labor laws, informing you of any changes or requirements.
+
+11. **Employee Offboarding (if necessary):**
+
+When an employee leaves, Multiplier will manage the offboarding process according to local regulations, including final paychecks and any required termination procedures.
 
 <a href="https://afftrend.com/multiplier"> 
 <img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
